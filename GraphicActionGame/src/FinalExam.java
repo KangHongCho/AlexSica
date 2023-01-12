@@ -32,7 +32,7 @@ public class FinalExam extends JFrame implements Runnable, ActionListener, KeyLi
 	
 	public FinalExam() {
 	    // GUI
-		setSize(500, 400);
+		setSize(400, 300);
 	    setVisible(true);
 
 		
